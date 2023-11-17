@@ -13,5 +13,4 @@
 
 ### Get Current User:
 
-![Get Current User](https://github.com/REzoa1/auth-to-API/assets/56412380/4e8f2c37-7512-4977-b304-fea716d0b492)
-
+![Get Current User](https://github.com/REzoa1/auth-to-API/assets/56412380/f7e8db69-db7d-4f88-aa08-00663f46673d)
